@@ -1,0 +1,6 @@
+Mode,LUT_Est,FF_Est,BRAM_Est,DSP_Est,FmaxMHz_Est,LatencyCycles_Est,Note
+Minimal_BASEBAND,180,230,0,0,285,4,"mapper only"
+BASEBAND_SRRC,764,1016,1,1,215,42,"33-tap SRRC, 12-bit fixed"
+FS4_IF,854,1126,1,1,205,46,"SRRC plus multiplier-free Fs/4 mixer"
+DDS_IF,994,1246,2,1,193,52,"SRRC plus quarter-wave LUT DDS"
+CORDIC_IF,1124,1446,0,0,170,60,"SRRC plus iterative CORDIC carrier"

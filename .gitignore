@@ -1,0 +1,25 @@
+﻿# Vivado generated/intermediate files
+fpga_code/.Xil/
+fpga_code/fpga_code.cache/
+fpga_code/fpga_code.hw/
+fpga_code/fpga_code.ip_user_files/
+fpga_code/fpga_code.runs/
+fpga_code/fpga_code.sim/
+fpga_code/*.jou
+fpga_code/*.log
+fpga_code/*.str
+fpga_code/*backup*
+fpga_code/dfx_runtime.txt
+
+# MATLAB transient files
+*.asv
+*.mlx.autosave
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vivado checkpoints
+fpga_code/**/*.dcp
