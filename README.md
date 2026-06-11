@@ -125,6 +125,10 @@ If the board has limited external pins, route only `y_if` to the primary externa
 
 ## Citation and License
 
+This project is released under the custom `Academic Attribution License Version 1.0`. See `LICENSE` for the full terms.
+
 If you use this project code, data, figures, or implementation ideas in a paper, report, thesis, or other publication, please clearly acknowledge this repository and describe the reused parts in the manuscript.
 
 Any use, redistribution, or derivative work must also comply with the corresponding open-source license terms of this repository and all third-party tools or dependencies used with it.
+
+

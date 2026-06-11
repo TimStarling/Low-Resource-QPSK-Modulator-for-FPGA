@@ -1,0 +1,98 @@
+﻿Low-Resource QPSK Modulator for FPGA
+Academic Attribution License Version 1.0
+
+Copyright (c) 2026 TimStarling
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this repository and associated documentation files (the "Project"), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or make derivative
+works based on the Project, subject to the following conditions:
+
+1. Copyright Notice
+   The above copyright notice and this license notice shall be included in all
+   copies or substantial portions of the Project.
+
+2. Academic and Publication Attribution
+   If the Project, including its code, data, figures, documentation, design
+   ideas, FPGA implementation, MATLAB experiments, or derived results, is used
+   in any paper, report, thesis, dissertation, presentation, technical document,
+   competition submission, or other public or academic work, the user must
+   clearly acknowledge this repository and describe the reused or derived parts
+   in the manuscript, acknowledgement section, citation section, or equivalent
+   public documentation.
+
+   Suggested acknowledgement text:
+
+   "This work uses or is derived from the Low-Resource QPSK Modulator for FPGA
+   project by TimStarling:
+   https://github.com/TimStarling/Low-Resource-QPSK-Modulator-for-FPGA"
+
+3. Derivative Works
+   Modified versions, derivative works, and redistributed copies must retain a
+   clear notice that changes were made, when reasonably practical.
+
+4. Third-Party Materials
+   This license applies only to materials owned by the copyright holder in this
+   repository. Third-party tools, libraries, IP cores, FPGA vendor software,
+   MATLAB, Vivado, and any other dependencies remain subject to their own
+   license terms. Users are responsible for complying with all applicable
+   third-party licenses.
+
+5. No Trademark or Endorsement
+   This license does not grant permission to use the names, trademarks, logos,
+   or identities of the copyright holder or related organizations to endorse or
+   promote derived products without prior written permission.
+
+6. No Warranty
+   THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS
+   IN THE PROJECT.
+
+-------------------------------------------------------------------------------
+
+中文说明（便于理解；如与英文条款不一致，以英文版本为准）
+
+面向 FPGA 的低资源 QPSK 调制器
+学术署名许可证 1.0 版
+
+版权所有 (c) 2026 TimStarling
+
+任何获得本仓库及相关文档文件（以下简称“本项目”）副本的人，均可免费使用、
+复制、修改、合并、发布、分发、再授权和/或基于本项目创建衍生作品，但须遵守
+以下条件：
+
+1. 版权声明
+   所有副本或本项目的重要部分必须保留上述版权声明和本许可证声明。
+
+2. 学术与公开成果署名
+   如果在论文、报告、学位论文、演示文稿、技术文档、竞赛作品或其他公开/学术
+   成果中使用本项目的代码、数据、图表、文档、设计思路、FPGA 实现、MATLAB
+   实验或其衍生成果，使用者必须在正文、致谢、引用或等效公开说明中明确声明
+   本仓库，并说明复用或衍生的具体内容。
+
+   建议声明文本：
+
+   “本文/本工作使用或基于 TimStarling 的 Low-Resource QPSK Modulator for FPGA
+   项目：
+   https://github.com/TimStarling/Low-Resource-QPSK-Modulator-for-FPGA”
+
+3. 衍生作品
+   修改版本、衍生作品和再分发副本应在合理可行的情况下清楚说明已进行修改。
+
+4. 第三方材料
+   本许可证仅适用于本仓库中版权持有人拥有权利的材料。第三方工具、库、IP 核、
+   FPGA 厂商软件、MATLAB、Vivado 以及其他依赖仍受其各自许可证约束。使用者
+   需自行遵守所有适用的第三方许可证。
+
+5. 商标与背书
+   未经事先书面许可，本许可证不授予使用版权持有人或相关组织名称、商标、标识
+   或身份为衍生产品背书或推广的权利。
+
+6. 无担保
+   本项目按“原样”提供，不作任何明示或暗示担保，包括但不限于适销性、特定用途
+   适用性和不侵权担保。在任何情况下，作者或版权持有人均不对因本项目或本项目
+   的使用而产生的任何索赔、损害或其他责任负责。
