@@ -123,6 +123,8 @@ If the board has limited external pins, route only `y_if` to the primary externa
 3. Generate the bitstream after timing and DRC checks pass.
 4. Validate the modulated output on hardware with DAC/PWM/debug capture or ILA.
 
-## License
+## Citation and License
 
-No license has been specified yet. Add a license file before distributing or reusing this project publicly.
+If you use this project code, data, figures, or implementation ideas in a paper, report, thesis, or other publication, please clearly acknowledge this repository and describe the reused parts in the manuscript.
+
+Any use, redistribution, or derivative work must also comply with the corresponding open-source license terms of this repository and all third-party tools or dependencies used with it.
